@@ -1,4 +1,5 @@
-# Name your own indexes in a pandas Series
+# Name your own indexes in a pandas Series:
+
 import pandas as pd
 
 # Data

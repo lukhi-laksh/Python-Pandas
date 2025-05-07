@@ -1,4 +1,4 @@
-# Accessing value form pandas Series
+# Accessing value form pandas Series:
 
 import pandas as pd
 

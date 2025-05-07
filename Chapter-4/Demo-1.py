@@ -1,5 +1,4 @@
-# Create a Pandas series
-from operator import index
+# Create a Pandas series:
 
 import pandas as pd
 

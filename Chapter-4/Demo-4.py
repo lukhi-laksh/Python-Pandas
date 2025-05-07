@@ -1,4 +1,4 @@
-# Access a value from a pandas Series with labels
+# Access a value from a pandas Series with labels:
 
 import pandas as pd
 
