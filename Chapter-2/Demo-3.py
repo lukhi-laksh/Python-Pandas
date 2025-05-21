@@ -15,4 +15,5 @@ data = {
 df = pd.DataFrame(data, index=['RowA', 'RowB', 'RowC', 'RowD', 'RowE'])
 print(df)
 
+#check size of data
 print(df.size)
