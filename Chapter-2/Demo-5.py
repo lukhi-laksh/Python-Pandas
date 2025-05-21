@@ -14,4 +14,5 @@ data = {
 df = pd.DataFrame(data, index=['RowA', 'RowB', 'RowC', 'RowD', 'RowE'])
 print(df)
 
+#print all index of Dataframe
 print(df.index)
