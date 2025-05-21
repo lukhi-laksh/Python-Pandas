@@ -23,5 +23,5 @@ dataFrame2 = pd.DataFrame(data2)
 resDf = dataFrame1.join(dataFrame2)
 print(resDf)
 
-# Convert data vertical to horizantal wise
+# Convert data vertical to horizantal wise print
 print(resDf.T)
