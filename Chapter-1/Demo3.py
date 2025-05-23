@@ -14,5 +14,6 @@ df = pd.DataFrame(data, index=["RowA", "RowB", "RowC", "RowD", "RowE", "RowF"])
 
 print(df)
 
+# print specific row column index
 print("\n Value = ", df.loc["RowC", "Marks"])
 print(df.loc["RowD", "Marks"])

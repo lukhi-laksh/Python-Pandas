@@ -13,4 +13,5 @@ data = {
 df = pd.DataFrame(data, index=['RowA', 'RowB', 'RowC', 'RowD', 'RowE'])
 print(df)
 
+#Print two line from Bottom side
 print(df.tail(2))

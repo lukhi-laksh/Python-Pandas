@@ -13,4 +13,5 @@ data = {
 df = pd.DataFrame(data, index=['RowA', 'RowB', 'RowC', 'RowD', 'RowE'])
 print(df)
 
+#Convert Column to row wise
 print(df.T)

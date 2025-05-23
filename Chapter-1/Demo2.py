@@ -9,5 +9,6 @@ data = {
     'Marks': [99, 98, 97, 96, 95, 94],
 }
 
+# Convert dictionary to DataFrame
 df = pd.DataFrame(data)
 print("Student record is: \n \n", df)
