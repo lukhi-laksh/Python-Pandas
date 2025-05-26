@@ -4,7 +4,7 @@ import pandas as pd
 
 #Data
 data1 = [10, 20, 30, 40, 50]
-data2 = [60, 70, 80]
+data2 = [60, 70, 80, 11, 14]
 
 
 #Create Series using Series() method
