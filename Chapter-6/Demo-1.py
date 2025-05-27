@@ -23,4 +23,6 @@ def demo(x1, x2):
 # The function return large value
 # larger value store in res variable
 res = series1.combine(series2, demo)
+
+# print list of larger arrays
 print(res)
