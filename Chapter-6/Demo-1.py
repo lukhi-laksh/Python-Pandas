@@ -19,7 +19,8 @@ def demo(x1, x2):
         return x2
 
 # Combine two string into one
-# The function return large value
 
+# The function return large value
+# larger value store in res variable
 res = series1.combine(series2, demo)
 print(res)
