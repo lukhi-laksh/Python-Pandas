@@ -6,5 +6,4 @@ import pandas as pd
 df = pd.read_excel("C:\\Users\\luxlu\Desktop\\new_datas.xlsx", index_col="Student")
 
 rs = df.loc["Amit"]
-rs.T
 print(rs)
