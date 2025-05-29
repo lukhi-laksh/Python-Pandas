@@ -1,4 +1,4 @@
-# Display top n rows of the dataframe in Pandas
+# Display Top n rows of the dataframe in Pandas
 
 import pandas as pd
 
