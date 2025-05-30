@@ -15,6 +15,6 @@ data = {
 df = pd.DataFrame(data)
 print(df)
 
-check = df.assign(check = [1, 2, 3, 3, 4])
+check = df.assign(Marks = [1, 2, 3, 3, 4])
 
 print(check)
