@@ -15,5 +15,5 @@ data = {
 df = pd.DataFrame(data)
 print(df)
 
-resDf = df.drop(3, axis=0)
+resDf = df.drop(3, axis="index")
 print(resDf)
