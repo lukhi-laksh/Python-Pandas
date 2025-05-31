@@ -12,7 +12,10 @@ data = {
 
 }
 
+# Convert to dataframe
 df = pd.DataFrame(data)
+
+# Print dataframe
 print(df)
 
 df.insert(2, "Check", ["First", "Second", "Third", "Fourth", "Fifth"])
