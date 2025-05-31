@@ -12,7 +12,10 @@ data = {
 
 }
 
+# Convert to dataframe
 df = pd.DataFrame(data)
+
+# Print dataframe
 print(df)
 
 check = df.assign(Marks = [1, 2, 3, 3, 4])
