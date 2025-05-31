@@ -13,7 +13,10 @@ data = {
 
 }
 
+# Convert to dataframe
 df = pd.DataFrame(data)
+
+# Print dataframe
 print(df)
 
 print(df[df.columns[2:5]])
