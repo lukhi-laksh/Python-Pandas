@@ -9,7 +9,9 @@ data = {
     'Marks': [90, 85, 80, 75, 40],
 }
 
+# Convert To dataframe
 df = pd.DataFrame(data)
 
+# Print Dataframe
 print(df)
 print(df[["Student", "Rank"]])
