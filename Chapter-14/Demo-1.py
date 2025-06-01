@@ -14,6 +14,8 @@ data = {
 
 # Convert Data to dataframe
 df = pd.DataFrame(data)
+
+# Print Dataframe
 print(df)
 
 for raw in df.iterrows():
