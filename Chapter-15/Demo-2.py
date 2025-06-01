@@ -12,6 +12,7 @@ data = {
 
 }
 
+# Convert data to dataframe
 df = pd.DataFrame(data, index=[5, 4, 2, 3, 1])
 print(df)
 
