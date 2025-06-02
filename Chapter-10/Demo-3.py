@@ -7,4 +7,6 @@ df = pd.read_excel("C:\\Users\\luxlu\Desktop\\new_datas.xlsx", index_col="Studen
 
 # Store row of Column in index
 rs = df.iloc[3]
+
+# Print Dataframe
 print(rs)
