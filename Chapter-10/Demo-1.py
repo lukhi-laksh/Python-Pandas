@@ -8,4 +8,5 @@ df = pd.read_excel("C:\\Users\\luxlu\Desktop\\new_datas.xlsx")
 # Convert CSV file to Dataframe
 rs = df["Marks"]
 
+# Print Dataframe
 print(rs)
