@@ -14,6 +14,8 @@ data = {
 
 # Convwer Data to dataframe
 df = pd.DataFrame(data)
+
+# Print Dataframe
 print(df)
 
 resDf = df.drop(3, axis="index")
