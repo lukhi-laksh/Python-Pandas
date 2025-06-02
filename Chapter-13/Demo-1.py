@@ -14,6 +14,8 @@ data = {
 
 # Convert Data to dataframe
 df = pd.DataFrame(data)
+
+# Print DataFrame
 print(df)
 
 resDf = df.drop("Marks", axis=1)
