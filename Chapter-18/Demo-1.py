@@ -1,5 +1,6 @@
 # lower() method in pandas 
 
+# Import pandas
 import pandas as pd 
 
 # Create list
