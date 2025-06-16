@@ -2,6 +2,7 @@
 
 import pandas as pd 
 
+# Create list
 data = ["Laksh", "Harsh", "Taksh", "Daksh", "Sahil"]
 
 # convert list into series
