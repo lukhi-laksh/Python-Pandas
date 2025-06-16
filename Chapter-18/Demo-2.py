@@ -4,6 +4,7 @@ import pandas as pd
 
 data = ["Laksh", "Harsh", "Taksh", "Daksh", "Sahil"]
 
+# Convert list to Series
 series = pd.Series(data)
 
 # Print Series in Upper case
