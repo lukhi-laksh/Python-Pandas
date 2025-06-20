@@ -1,5 +1,6 @@
 # contains() method in pandas 
 
+# import pandas 
 import pandas as pd 
 
 # Create data
