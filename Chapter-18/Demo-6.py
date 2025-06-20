@@ -2,6 +2,7 @@
 
 import pandas as pd 
 
+# Create data
 data = ["Laksh", "Harsh", "Taksh", "Daksh", "Sahil"]
 
 # Convert list into pandas
