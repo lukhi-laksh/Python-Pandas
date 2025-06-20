@@ -1,5 +1,6 @@
 # count() method in pandas 
 
+# Import pandas
 import pandas as pd 
 
 data = ["Laksh", "Harsh", "Taksh", "Daksh", "Sahil"]
