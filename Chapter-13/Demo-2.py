@@ -1,5 +1,6 @@
 # Drop column using drop()
 
+# Import pandas
 import pandas as pd
 
 data = {
