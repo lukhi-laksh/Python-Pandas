@@ -3,6 +3,7 @@
 # import pandas
 import pandas as pd
 
+# Create data
 data = {
     'Id': [101, 102, 103, 104, 105],
     'Student': ["Amit", "John", "Laksh", "Taksh", "Darsh"],
